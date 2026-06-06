@@ -12,6 +12,11 @@ on:
 permissions:
   contents: write
 
+# run the bundled JavaScript actions on Node 24 (current LTS) instead of the
+# deprecated Node 20 default; opt in now ahead of the runner switch
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
