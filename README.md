@@ -29,11 +29,7 @@ Lately I'm focused on **AI-assisted development** (Claude Code, spec-driven work
 
 I publish essays on craft, AI-assisted engineering and game feel. Latest from [valdemird.com](https://valdemird.com):
 
-<!-- BLOG-POST-LIST:START -->- **[Game feel on the web: squash, shake, and the art of juice](https://valdemird.com/blog/game-feel-on-the-web/)** — <sub>Jun 2026</sub>
-- **[Git Worktrees Let Me Run Three Claude Agents in Parallel](https://valdemird.com/blog/worktrees-let-me-parallelize/)** — <sub>May 2026</sub>
-- **[AI Gave Me Speed. Tests Gave Me Control.](https://valdemird.com/blog/tests-gave-me-control/)** — <sub>Apr 2026</sub>
-- **[Learn by Building: Why Makers Learn Faster Than Students](https://valdemird.com/blog/building-to-learn/)** — <sub>Mar 2026</sub>
-- **[Custom Slash Commands for AI Coding: Build Your Own Spec-Driven Workflow](https://valdemird.com/blog/custom-commands-ai-coding/)** — <sub>Mar 2026</sub>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <sub>→ Read everything at **[valdemird.com](https://valdemird.com)**</sub>
