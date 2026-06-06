@@ -27,7 +27,9 @@ jobs:
         with:
           feed_list: "https://valdemird.com/rss.xml"
           max_post_count: 5
-          template: "- **[$title]($url)** — <sub>$date</sub>$newline"
+          # leading $newline keeps the first post off the START marker line
+          # (otherwise the <!-- ... --> comment swallows it as a raw HTML block)
+          template: "$newline- **[$title]($url)** — <sub>$date</sub>"
           date_format: "mmm yyyy"
           commit_message: "chore: refresh latest blog posts"
           user_agent: "Mozilla/5.0 (compatible; blog-post-workflow)"
