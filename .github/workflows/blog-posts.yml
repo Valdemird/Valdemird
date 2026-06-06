@@ -1,0 +1,29 @@
+name: latest blog posts
+
+on:
+  # refresh every 6 hours
+  schedule:
+    - cron: "30 */6 * * *"
+
+  # allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# only needs to commit the updated README back to the repo
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # reads the RSS feed and replaces the content between the
+      # <!-- BLOG-POST-LIST:START --> / <!-- BLOG-POST-LIST:END --> markers
+      - name: pull latest posts from valdemird.com
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://valdemird.com/rss.xml"
+          max_post_count: 5
+          template: "- **[$title]($url)** — <sub>$date</sub>$newline"
+          date_format: "mmm yyyy"
+          commit_message: "chore: refresh latest blog posts"
+          user_agent: "Mozilla/5.0 (compatible; blog-post-workflow)"
