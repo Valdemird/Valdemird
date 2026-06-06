@@ -16,6 +16,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # check out the repo so the action can edit and commit README.md
+      - name: checkout
+        uses: actions/checkout@v4
+
       # reads the RSS feed and replaces the content between the
       # <!-- BLOG-POST-LIST:START --> / <!-- BLOG-POST-LIST:END --> markers
       - name: pull latest posts from valdemird.com
