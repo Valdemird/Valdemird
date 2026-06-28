@@ -30,11 +30,11 @@ Lately I'm focused on **AI-assisted development** (Claude Code, spec-driven work
 I publish essays on craft, AI-assisted engineering and game feel. Latest from [valdemird.com](https://valdemird.com):
 
 <!-- BLOG-POST-LIST:START -->
-- **[Shipping a High-Accuracy AI Agent: What to Prioritize, What to Ignore](https://valdemird.com/blog/high-accuracy-agent-priorities/)** — <sub>Jun 2026</sub>
+- **[Shipping a high-accuracy AI agent: what to prioritize, what to ignore](https://valdemird.com/blog/high-accuracy-agent-priorities/)** — <sub>Jun 2026</sub>
 - **[Interactive Blog Posts: Why I Built 30 Components Instead of Pasting Screenshots](https://valdemird.com/blog/interactive-blog-components/)** — <sub>Jun 2026</sub>
 - **[Game feel on the web: squash, shake, and the art of juice](https://valdemird.com/blog/game-feel-on-the-web/)** — <sub>Jun 2026</sub>
-- **[Git Worktrees Let Me Run Three Claude Agents in Parallel](https://valdemird.com/blog/worktrees-let-me-parallelize/)** — <sub>May 2026</sub>
-- **[AI Gave Me Speed. Tests Gave Me Control.](https://valdemird.com/blog/tests-gave-me-control/)** — <sub>Apr 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Git worktrees let me run three Claude agents in parallel](https://valdemird.com/blog/worktrees-let-me-parallelize/)** — <sub>May 2026</sub>
+- **[AI gave me speed. Tests gave me control.](https://valdemird.com/blog/tests-gave-me-control/)** — <sub>Apr 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>→ Read everything at **[valdemird.com](https://valdemird.com)**</sub>
 
