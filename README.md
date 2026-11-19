@@ -30,11 +30,11 @@ Lately I'm focused on **AI-assisted development** (Claude Code, spec-driven work
 I publish essays on craft, AI-assisted engineering and game feel. Latest from [valdemird.com](https://valdemird.com):
 
 <!-- BLOG-POST-LIST:START -->
-- **[LLM evals from my own games: how my AI game master got unstuck](https://valdemird.com/blog/my-games-became-the-eval/)** — <sub>Oct 2026</sub>
-- **[High-accuracy AI agents: what to prioritize, what to ignore](https://valdemird.com/blog/high-accuracy-agent-priorities/)** — <sub>Jun 2026</sub>
-- **[Interactive blog posts: when a component beats a screenshot](https://valdemird.com/blog/interactive-blog-components/)** — <sub>Jun 2026</sub>
-- **[Game feel on the web: squash, shake, and the art of juice](https://valdemird.com/blog/game-feel-on-the-web/)** — <sub>Jun 2026</sub>
-- **[Git worktrees let me run three Claude agents in parallel](https://valdemird.com/blog/worktrees-let-me-parallelize/)** — <sub>May 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Platformer acceleration and friction: tune them in seconds](https://valdemird.com/blog/acceleration-and-friction/)** — <sub>Nov 2026</sub>
+- **[Attack startup, active and recovery frames: how they work](https://valdemird.com/blog/attack-startup-active-recovery/)** — <sub>Nov 2026</sub>
+- **[Boss fight design: three attacks, two phases, a stagger bar](https://valdemird.com/blog/boss-design/)** — <sub>Nov 2026</sub>
+- **[Platformer corner correction: what it is and how it works](https://valdemird.com/blog/corner-correction/)** — <sub>Nov 2026</sub>
+- **[Coyote time and jump buffer: what they are and how they work](https://valdemird.com/blog/coyote-time-jump-buffer/)** — <sub>Nov 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>→ Read everything at **[valdemird.com](https://valdemird.com)**</sub>
 
